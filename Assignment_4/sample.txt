@@ -1,0 +1,8 @@
+This is a sample text file for the file transfer assignment.
+It contains multiple lines of text to demonstrate how the client
+can read this file and send it to the server over a TCP socket.
+
+The server will receive this data and write it to received.txt.
+This tests the file handling and data transfer in chunks.
+
+File Transfer Protocol Demonstration
